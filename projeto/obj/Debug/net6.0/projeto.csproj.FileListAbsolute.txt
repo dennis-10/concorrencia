@@ -1,0 +1,15 @@
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\bin\Debug\net6.0\projeto.exe
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\bin\Debug\net6.0\projeto.deps.json
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\bin\Debug\net6.0\projeto.dll
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\bin\Debug\net6.0\projeto.pdb
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\obj\Debug\net6.0\projeto.dll
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\obj\Debug\net6.0\refint\projeto.dll
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\obj\Debug\net6.0\projeto.pdb
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+c:\Users\denni\Documents\sistemas_concorrentes_glauco\projeto\obj\Debug\net6.0\ref\projeto.dll

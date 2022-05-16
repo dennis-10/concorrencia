@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nn0EDwQ3q9gPBqbWGrdAyjchR9/3c6iHfNSqtu5hIlzuLgCmZId4/WLHi06jotDisWugQzOlnJLhxq7wsvMT0Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\denni\\Documents\\sistemas_concorrentes_glauco\\projeto\\projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denni\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
